@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Rishi Singh
 
-<!--
-**Rishi04singh/Rishi04singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Aspiring Data Scientist | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 Currently pursuing B.Tech  
+- 📊 Learning Data Science & Machine Learning  
+- 💡 Interested in AI, Backend Development & Startups  
+- 🚀 Working on projects like **Wander AI (Trip Planner)**  
+- 🌱 Currently exploring: Deep Learning & Real-world ML projects  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, JavaScript, C++  
+- 🌐 Web: Node.js, Express.js  
+- 🗄️ Database: MongoDB  
+- ⚙️ Tools: Git, GitHub, VS Code, Postman  
+- 📊 Libraries: NumPy, Pandas, Matplotlib, Scikit-learn  
+
+---
+
+## 📈 GitHub Stats
+![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 📌 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projects
+- 🌍 Wander AI – Smart Trip Planner  
+- 📝 Task Manager API (Node.js + MongoDB)  
+- 📊 Data Analysis Projects  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+- 🐦 Twitter: https://twitter.com/YOUR_HANDLE  
+
+---
+
+## ⚡ Fun Fact
+> I love building tech that solves real-world problems 🚀
