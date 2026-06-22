@@ -39,9 +39,9 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 🐦 Twitter: https://twitter.com/YOUR_HANDLE  
+- 📧 Email: rishi2004singhrs@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rishi-singh-89649a316/details/experience/
+- 🐦 Twitter: https://x.com/Rishi69singh
 
 ---
 
