@@ -1,21 +1,19 @@
 # <p align="center">Hi 👋, I'm Rishi Singh</p>
 
 <h3 align="center">
-🚀 Data Science Student • Full Stack Developer • AI Enthusiast
+🚀 Data Science Student | Full Stack Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+AI+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Projects;Always+Learning..." />
 </p>
 
 <p align="center">
-
 <a href="https://github.com/Rishi04singh">
-<img src="https://img.shields.io/github/followers/Rishi04singh?label=Followers&logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Rishi04singh?style=for-the-badge&logo=github"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Rishi04singh&style=for-the-badge&color=blue"/>
-
 </p>
 
 ---
@@ -24,86 +22,39 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 B.Tech Computer Science (Data Science)
-
-💻 Full Stack Developer
-
-🤖 Machine Learning & AI Enthusiast
-
-🌱 Currently learning
-
-- Deep Learning
-- NLP
-- Generative AI
-- RAG
-
-🚀 Love building scalable AI products
-
-⚡ Fun Fact:
-
-> I enjoy turning ideas into real-world intelligent applications.
+- 🎓 B.Tech Computer Science (Data Science)
+- 💻 Full Stack Developer
+- 🤖 Machine Learning Enthusiast
+- 🌱 Learning Deep Learning, NLP & Generative AI
+- 🚀 Building AI-powered applications
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/rishi-singh-89649a316">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:rishi2004singhrs@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://x.com/Rishi69singh">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,express,flask,fastapi,mongodb,mysql,git,github,vscode,docker,postman"/>
 
 </p>
 
@@ -111,61 +62,31 @@
 
 # 🚀 Featured Projects
 
-## 🌍 Wander AI
+### 🌍 Wander AI
 
-> AI-powered travel planner with itinerary generation, budget planning and smart recommendations.
-
-**Tech**
-
-`React` `Node.js` `Flask` `MongoDB`
+AI-powered travel planner with itinerary generation and budget planning.
 
 ---
 
-## 🌾 AgriTech
+### 🌾 AgriTech
 
-> Smart Farming Assistant featuring Crop Prediction, Disease Detection, Weather Prediction, AI Chatbot & Fertilizer Recommendation.
-
-**Tech**
-
-`Python`
-
-`Flask`
-
-`Machine Learning`
-
-`Gemini API`
+Crop Recommendation, Disease Detection, Weather Prediction, AI Chatbot.
 
 ---
 
-## 💳 Fraud Detection
+### 💳 Fraud Detection
 
-> Machine Learning system that detects fraudulent transactions using predictive analytics.
-
-**Tech**
-
-`Python`
-
-`Scikit-learn`
-
-`Pandas`
+Machine Learning model for detecting fraudulent transactions.
 
 ---
 
-## 📋 Task Manager API
+### 📋 Task Manager API
 
-> Secure REST API with JWT Authentication and CRUD functionality.
-
-**Tech**
-
-`Node.js`
-
-`Express`
-
-`MongoDB`
+REST API using Node.js, Express & MongoDB.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -177,7 +98,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -187,11 +108,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rishi04singh&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rishi04singh&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -209,6 +130,6 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=footer"/>
 
 </p>
