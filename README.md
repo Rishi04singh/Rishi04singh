@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Singh</h1>
 
-<h3 align="center">🚀 B.Tech CSE (Data Science) | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 B.Tech CSE (Data Science)  | AI Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects" alt="Typing SVG"/>
